@@ -38,9 +38,10 @@ div i {
 }
 
 .container {
-  padding: 50px 40px 30px;
+  padding: 10px 40px 30px;
   max-width: 500px;
   background-color: rgb(186, 127, 214);
+  margin-top: 30px;
 }
 .enter-city {
   margin-top: 20px;
